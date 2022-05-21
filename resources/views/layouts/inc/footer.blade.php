@@ -246,7 +246,7 @@
 							@if (config('settings.footer.powered_by_info'))
 								{{ t('Powered by') }} {!! config('settings.footer.powered_by_info') !!}
 							@else
-								{{ t('Powered by') }} <a href="https://laraclassifier.com" title="LaraClassifier">LaraClassifier</a>.
+								{{ t('Powered by') }} <a href="https://arabcode.onle" title="ArabCode">ArabCode</a>.
 							@endif
 						@endif
 					</div>

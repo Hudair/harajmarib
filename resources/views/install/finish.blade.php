@@ -14,7 +14,7 @@
     <a class="text-bold" href="{{ admin_url('login') }}">{{ admin_url() }}</a>.
     Visit your website: <a class="text-bold" href="{{ url('/') }}" target="_blank">{{ url('/') }}</a>
     <br><br>
-    Thank you for choosing LaraClassifier. - <a class="text-bold" href="https://laraclassifier.com" target="_blank">laraclassifier.com</a>
+    Thank you for choosing LaraClassifier. - <a class="text-bold" href="https://arabcode.online" target="_blank">arabcode.online</a>
     <div class="clearfix"></div>
     <br />
     
